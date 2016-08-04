@@ -1,0 +1,36 @@
+_repo: Louise-de-la-Valliere_2710
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Dumas, Alexandre
+    aliases:
+    - Dumas, Alexandre, pere
+    - Dumas père, Alexandre
+    - Dumas, Alexander
+    birthdate: 1802
+    deathdate: 1870
+    gutenberg_agent_id: '492'
+    url: http://www.gutenberg.org/2009/agents/492
+    wikipedia: http://en.wikipedia.org/wiki/Alexandre_Dumas,_père
+description: A translation of the latter part of the Vicomte de Bragelonne.
+gutenberg_bookshelf:
+- Movie Books
+- Adventure
+gutenberg_issued: '2001-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2710'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'La Vallière, Françoise-Louise de La Baume Le Blanc, duchesse de, 1644-1710
+  -- Fiction'
+- !lcc 'PQ'
+- !lcsh 'France -- History -- Louis XIV, 1643-1715 -- Fiction'
+- !lcsh 'Adventure stories'
+- !lcsh 'Historical fiction'
+- GITenberg
+title: Louise de la Valliere
+url: http://www.gutenberg.org/ebooks/2710
